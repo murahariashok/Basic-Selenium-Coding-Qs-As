@@ -4,6 +4,8 @@
 
 selenium is free or open source tool used for automating web based applications.
 It supports multiple languages like java,python ,R,c# and also supports multiple browsers
+Google Chrome , firefox, Microsoft Edge, safari
+
 
 2.Types of selenium Components
 there are multiple types of components like
@@ -24,6 +26,17 @@ d. Selenium Grid
 :used to run the tests on multiple machines parallely
 used in different browsers and environments
 
+'''
 
+'''
+3.advantages of selenium
+a.support multiple browsers and multiple langauge
+b.parallel execution
+c.integrated ci/cd
+d.open sources and free
+
+limitations
+a.cannot test desktop applications using selenium
+b.cannot test web services using selenium
 
 '''
